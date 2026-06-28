@@ -1,6 +1,0 @@
-{
-  "name": "Tableau Data Source Field Standardizer",
-  "description": "Upload, scan, and validate Tableau TDS files against an enterprise data dictionary with automatic field renaming suggestions and instant XML exports.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
